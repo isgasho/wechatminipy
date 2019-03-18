@@ -1,2 +1,2 @@
 # wechatminipy
-Python版小程序SDK
+Python版微信小程序SDK
